@@ -12,6 +12,25 @@ Um ataque de força bruta consiste em tentar várias combinações de usuário/s
   - bloqueio por tentativas inválidas;
   - monitoramento e logs de autenticação.
 
+Preparação do laboratorio!
+
+Precisamos usar os seguintes comandos para que possamos realizar a criação das wordlists.
+
+Este vai criar os usuários:
+echo -e "user\nuser123\nadmin\nroot\nusuario\nmsfadmin" > users.txt
+
+E este para possíveis senhas:
+echo -e "admin\nuser\nroot\npassword\n123456\nmsfadmin" > password.txt
+
+
+Scaneando as portas e serviços com Nmap.
+Após criar as 2 máquinas virtuais precisamos ver qual IP de cada uma delas.
+
+Comando para ver o IP:
+ip a
+
+
+
 ## ⚠️ Aviso importante
 
 Todo o conteúdo deste diretório é destinado **exclusivamente para estudos em ambientes autorizados**.  
