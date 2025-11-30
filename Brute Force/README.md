@@ -26,11 +26,9 @@ echo -e "admin\nuser\nroot\npassword\n123456\nmsfadmin" > password.txt
 Scaneando as portas e serviços com Nmap.
 Após criar as 2 máquinas virtuais precisamos ver qual IP de cada uma delas.
 
-Comando para ver o IP:
-ip a
-<p>
+Comando para ver o IP:<br>
+ip a<br>
   ![ip_kali](https://github.com/user-attachments/assets/761384a1-24d5-45d3-ac84-a58c45dd58e8)
-</p>
 
 
 ## ⚠️ Aviso importante
