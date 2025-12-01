@@ -28,7 +28,7 @@ Após criar as 2 máquinas virtuais precisamos ver qual IP de cada uma delas.
 
 Comando para ver o IP:<br>
 ip a<br>
-  ![ip_kali](https://github.com/user-attachments/assets/761384a1-24d5-45d3-ac84-a58c45dd58e8)
+  ![ip_kali](https://github.com/user-attachments/assets/0760dc6d-31ee-454b-8edf-5aff65647bf3)
 
 
 ## ⚠️ Aviso importante
