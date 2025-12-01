@@ -20,22 +20,18 @@ Registro dos comandos utilizados, resultados obtidos e reflexões sobre medidas 
 
 Pasta sugerida: brute-force-attack/
 
-Recursos Úteis 
-Slide
+📚 Recursos:
+Slide:
+- [Criando um Ataque Brute Force de senhas com Medusa e Kali Linux](https://hermes.dio.me/files/assets/2dd3d3ad-b7e5-4325-8d1d-ddd8e7205fea.pdf)
 
-Criando um Ataque Brute Force de senhas com Medusa e Kali Linux
+Softwares e Ferramentas:
+- [Kali Linux](https://www.kali.org/)
+- [Metasploitable 2](https://www.rapid7.com/products/metasploit/metasploitable/)
+- [Medusa](http://www.foofus.net/jmk/medusa/medusa.html)
+- [Nmap](https://nmap.org/)
 
-Documentações Oficiais 
-Kali Linux – Site Oficial
-
-DVWA – Damn Vulnerable Web Application
-
-Medusa – Documentação
-
-Nmap – Manual Oficial
-
-Materiais Complementares sobre GitHub 
-GitHub Quick Start – Repositório com links para aulas de Git e GitHub
-GitBook: Formação GitHub Certification – Material textual sobre GitHub
-Documentação do GitHub – Guia completo para uso do GitHub
-GitHub Markdown – Guia de sintaxe de Markdown
+Documentações oficiais:
+- [Kali Linux – Site Oficial](https://www.kali.org/docs/)
+- [Metasploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2/)
+- [Medusa – Documentação](http://www.foofus.net/jmk/medusa/medusa.html)
+- [Nmap – Manual Oficial](https://nmap.org/book/toc.html)
