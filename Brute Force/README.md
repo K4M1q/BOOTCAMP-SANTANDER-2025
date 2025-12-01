@@ -41,7 +41,8 @@ Kali Linux para a MetaSploitable:
 IMAGEM AQUI
 
 MetaSploitable para a Kali Linux:
-IMAGEM AQUI
+![kalitometa jpeg](https://github.com/user-attachments/assets/369945ac-7077-4bba-8788-89cf9e8fbe7a)
+
 
 Vemos que as máquinas se enxergam, e isso se deve por estarem na mesma rede, a configuração para isso é deixar ambas as máquinas com o adaptador em modo "only-host"
 IMAGEM AQUI
