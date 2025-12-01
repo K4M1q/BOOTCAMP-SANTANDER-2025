@@ -28,7 +28,13 @@ Após criar as 2 máquinas virtuais precisamos ver qual IP de cada uma delas.
 
 Comando para ver o IP:<br>
 ip a<br>
+Máquina Kali Linux:
+
   ![ip_kali](https://github.com/user-attachments/assets/0760dc6d-31ee-454b-8edf-5aff65647bf3)
+
+Máquina Metasploitable:
+
+![ipMetasploitable](https://github.com/user-attachments/assets/10155b4a-6d74-4543-b968-b9aea72fe36b)
 
 
 ## ⚠️ Aviso importante
