@@ -36,6 +36,17 @@ Máquina Metasploitable:
 
 ![ipMetasploitable](https://github.com/user-attachments/assets/10155b4a-6d74-4543-b968-b9aea72fe36b)
 
+Agora validaremos se tem comunicação entre as máquinas com o ping de cada uma:
+Kali Linux para a MetaSploitable:
+IMAGEM AQUI
+
+MetaSploitable para a Kali Linux:
+IMAGEM AQUI
+
+Vemos que as máquinas se enxergam, e isso se deve por estarem na mesma rede, a configuração para isso é deixar ambas as máquinas com o adaptador em modo "only-host"
+IMAGEM AQUI
+
+
 
 ## ⚠️ Aviso importante
 
